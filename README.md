@@ -9,4 +9,14 @@
 - Commit your code
 - Make a pull request
 
-### Do not commit to master/main branch ⚠ 
+### Do not commit to master/main branch ⚠
+
+## How to run the app
+
+- Run `yarn install` to install all depencies
+- copy and paste `fix.js` into `node_modules/node-sass/lib/render.js`
+- Run `yarn start` to run app
+
+## Note
+
+**The `fix.js` is fix a dependency error in node-sass**

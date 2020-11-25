@@ -1,0 +1,20 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Testing git",
+  "main": "index.js",
+  "repository": "https://github.com/aiyeola/git-test.git",
+  "author": "Victor Aiyeola <aiyeolavictor@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "watch:sass": "node-sass style.scss style.css -w",
+    "devserver": "live-server --no-css-inject",
+    "start": "concurrently  \" yarn run watch:sass \" \" yarn run devserver  \" "
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "live-server": "^1.2.1",
+    "node-sass": "^5.0.0",
+    "npm-run-all": "^4.1.5"
+  }
+}
