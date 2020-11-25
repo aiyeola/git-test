@@ -8,3 +8,5 @@
 - Write some code 👩🏽‍💻👩🏽‍💻
 - Commit your code
 - Make a pull request
+
+### Do not commit to master branch ⚠ 
