@@ -9,4 +9,4 @@
 - Commit your code
 - Make a pull request
 
-### Do not commit to master branch ⚠ 
+### Do not commit to master/main branch ⚠ 
