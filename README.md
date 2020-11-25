@@ -19,4 +19,4 @@
 
 ## Note
 
-**The `fix.js` is fix a dependency error in node-sass**
+**The `fix.js` is to fix a dependency error in node-sass**
